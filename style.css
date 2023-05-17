@@ -8,3 +8,61 @@
 body{
     height: 100vh;
 }
+
+footer{
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+
+
+
+main{
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+}
+
+.main-container1{
+    width: 1800px;
+    height: 1000px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container1-superior{
+    width: 100%;
+    height: 75%;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-container1-superior1{
+    width: 75%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.main-c1-s1-imagem{
+    
+}
+.main-c1-s1-conteudo{
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-container1-inferior{
+    width: 100%;
+    height: 25%;
+
+    display: flex;
+    justify-content: space-around;
+}
