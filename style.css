@@ -70,7 +70,7 @@ main{
 
 .main-container1-superior{
     width: 1350px;
-    height: 75%;
+    height: 600px;
 
     display: flex;
     justify-content: space-between;
@@ -179,6 +179,15 @@ main{
     height: 25%;
 
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+
+    background-color: aqua;
+}
+
+
+.main-container1-inferior-box1,.main-container1-inferior-box2, .main-container1-inferior-box3{
+    background-color: bisque;
+    width: 400px;
+    height: 100%;
 }
 
