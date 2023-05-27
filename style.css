@@ -176,12 +176,15 @@ main{
 }
 .main-container1-inferior{
     width: 100%;
-    height: 25%;
+    height: 260px;
 
     display: flex;
     justify-content: space-between;
 
     background-color: aqua;
+}
+.main-container1-inferior img{
+    width: 150px;
 }
 
 
@@ -189,5 +192,9 @@ main{
     background-color: bisque;
     width: 400px;
     height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
