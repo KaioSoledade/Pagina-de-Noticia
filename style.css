@@ -202,7 +202,7 @@ main{
     background-color: aqua;
 }
 .main-container1-inferior img{
-    width: 150px;
+    width: 130px;
 }
 
 
@@ -214,5 +214,14 @@ main{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.main-c1-i1-box-conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 400px;
+    height: 160px;
 }
 
