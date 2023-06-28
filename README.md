@@ -19,4 +19,5 @@ O código-fonte deste projeto está disponível em: [https://github.com/KaioSole
 ## Contato
 
 - Linkedin: [https://www.linkedin.com/in/kaiosoledade/](https://www.linkedin.com/in/kaiosoledade/)
-- Email: soledadekaio
+- Email: soledadekaio@outlook.com
+- Telefone: (71) 982159236
