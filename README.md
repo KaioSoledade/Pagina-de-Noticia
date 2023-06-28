@@ -10,11 +10,11 @@ Neste projeto de página de notícias, utilizei amplamente meus conhecimentos em
 
 ## Demonstração
 
-Uma demonstração deste projeto pode ser encontrada em: [https://formulario-de-inscricao-com-menssagem-de-sucesso.vercel.app](https://formulario-de-inscricao-com-menssagem-de-sucesso.vercel.app)
+Uma demonstração deste projeto pode ser encontrada em: [https://pagina-de-noticia.vercel.app](https://pagina-de-noticia.vercel.app)
 
 ## Repositório
 
-O código-fonte deste projeto está disponível em: [https://github.com/KaioSoledade](https://github.com/KaioSoledade/Formulario-de-inscricao-com-menssagem-de-sucesso)
+O código-fonte deste projeto está disponível em: [https://github.com/KaioSoledade](https://github.com/KaioSoledade/Pagina-de-Noticia)
 
 ## Contato
 
